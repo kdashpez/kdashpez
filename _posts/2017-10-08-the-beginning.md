@@ -2,10 +2,10 @@
 layout: post
 title: "the beginning."
 author: "Katherine Perez"
-categories: introduction
-tags: [introduction]
+<!---categories: introduction
+tags: [introduction] -->
 image:
-  feature: artic-4.jpg
+ feature: sky-and-moon.jpg
 ---
 
 ## Test.

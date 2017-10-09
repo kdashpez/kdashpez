@@ -1,0 +1,14 @@
+---
+layout: page
+title: Film [Reviews and Original Works]
+---
+
+<p>I mostly watch and write horror films.</p>
+{% for post in site.categories.film %}
+  <a href="{{ site.github.url }}{{ post.url }}">
+      <div class="featured-posts" {% if post.image.feature %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+      </div>
+  </a>
+{% endfor %}
+

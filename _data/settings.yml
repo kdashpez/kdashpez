@@ -1,0 +1,25 @@
+title:  "kdashpez"
+tagline: "adventures in being human."
+description:
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+menu:
+- {name: 'track by track.', folder: 'pages', file: 'tbt.html'}
+- {name: 'meme stash.', folder: 'pages', file: 'memes.html'}
+- {name: 'film.', folder: 'pages', file: 'film.html'}
+- {name: 'about.', folder: 'pages', file: 'about.html'}
+
+social:
+- {icon: 'twitter', link: 'http://www.twitter.com/kdashpez'}
+- {icon: 'instagram', link: 'http://instagram.com/kdashpez'}
+- {icon: 'lastfm', link: 'http://last.fm/user/stolenpens'}
+- {icon: 'spotify', link: 'http://open.spotify.com/user/kdashpez'}
+- {icon: 'envelope', link: 'mailto:kdashpez@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

@@ -9,11 +9,13 @@ image:
 ---
 
 # Roy Pablo EP by Boy Pablo
->Release Date: 05.19.2017
->Genre Tags: indie rock, indie pop
+Release Date: 05.19.2017
+
+Genre Tags: indie rock, indie pop
 
 Ah yes, a YouTube recommendation engine star (thank you machine learning)...Here's Boy Pablo and his EP: Roy Pablo. I will say that I do listen to indie rock/pop the most out of any genre so there's gonna be some bias here (more on being objective in music reviews later).
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/324233047&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<br>
 
 ### Yeah(Fantisizing)
 Right off the bat, we hear the dreamy guitar, emphasized by the echo and reverb.The second section of the song just kind of drifts away (seems kind of aimless...but I think that's the point of the song).

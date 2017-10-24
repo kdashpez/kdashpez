@@ -2,7 +2,7 @@
 layout: post
 title: "the beginning."
 author: "Katherine Perez"
-categories: posts 
+categories: blog  
 tags: [introduction]
 image:
  feature: sky-and-moon.jpg

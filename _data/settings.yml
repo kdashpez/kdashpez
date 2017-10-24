@@ -10,6 +10,8 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
+- {name: 'blog.', folder: 'pages', file: 'blog.html'}
+- {name: 'bookshelf.', folder: 'pages', file: 'bookshelf.html'}
 - {name: 'track by track.', folder: 'pages', file: 'tbt.html'}
 - {name: 'meme stash.', folder: 'pages', file: 'memes.html'}
 - {name: 'film.', folder: 'pages', file: 'film.html'}

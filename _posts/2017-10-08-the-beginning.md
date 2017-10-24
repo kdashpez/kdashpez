@@ -20,7 +20,12 @@ I was sure it wasn't exactly about being famous or leaving some form of object o
 
 I tried to think about this concept and what I would make out of my legacy. I can't remember what fifth-grade me was going to do with her legacy. However, the idea did stay with me. Reflecting upon it now, 
 I'd like to think that I'm getting closer to that idea of trying to do something impactful with my life.
-While I still don't have a complete answer to that, I'd like to think that I should at least keep a 
-record of what I did. That's what this website is for. Maybe my grandchildren could figure out some stuff about me (and that would be cool (assuming they would be interested in 21st century millennial history)). Also, making websites are fun, amirite?
+And perhaps, the simplest idea I have of that is to produce more than I consume. I thoroughly enjoy 
+music, it's an integral part of my life. I hope not only to consume it, but actually make some music 
+of my own one day. I also hope to do the same with film. Even more so, I think about this world and all the technology that has been developed. I would like to contribute to the advancement of that as well. Might I say (autonomous vehicles ;) )...
+
+While I still don't have a complete answer to what my legacy encompasses, I'd like to think that I 
+should at least keep a record of what I did. That's what this website is for. Maybe my grandchildren 
+could figure out some stuff about me (and that would be cool (assuming they would be interested in 21st century millennial history)). Also, making websites are fun, amirite?
  
 Hmm, time for a cliche...This is only the beginning. 

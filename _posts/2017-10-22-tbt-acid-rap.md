@@ -16,6 +16,7 @@ I don't even listen to rap, man. But here goes, have a listen with me:
 This is actually a pretty good ass introduction. It's upbeat and catchy. We get a good taste of Chance's ad-libs (but tbh, it's kind of annoying after a while...but it's classic Chance). At the end, I really like that binaural effect.
 Score: 8/10
 
+======= REST OF REVIEW IS PENDING (contact me if you really wanna see this review) ======
 ### Pusha Man
 
 ### Cocoa Butter Kisses

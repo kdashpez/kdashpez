@@ -66,9 +66,11 @@ JEREMY: This is perhaps the most beautiful track on the album, maybe even the en
 
 ### ALASKA
 
-This song is all about changes. The changes that these artists are experiencing. By the
+KAT: This song is all about changes. The changes that these artists are experiencing. By the
 time Matt Champion comes on, you can really feel this song take a dip in the mood, to
 a sadder region of feels.
+
+JEREMY: This track starts off with a simple beat as Ameer Vann and Kevin Abstract rap and sing about their newfound success. Gradually, strings are introduced that continue on at at a marching tempo. Eventually a crescendo of G-funk synths transition into a bridge with haunting vocals.
 
 ### HOTTIE
 

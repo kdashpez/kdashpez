@@ -10,11 +10,10 @@ image:
 # Saturation III by BROCKHAMPTON
 Release Date: 12.15.2017
 
-Genre Tags:
+Genre Tags: hip-hop, rap, alternative rap, pop, all-american, goodassmusic
 
 Just for a little bit of context: this album is what we would thought was going to be BROCKHAMPTON's, the "all-American boy band", final album. This comes as a shock since this group pushed out two albums full of great production quality. This review will be a collaboration between
-Jeremy and I, we'll present both of our sides for this track by track review. Sit back, relax, plug in your headphones and listen to
-BROCKHAMPTON'S third installment, SATURATION III.
+Jeremy and I, we'll present both of our sides for this track by track review. Sit back, relax, plug in your headphones and listen to BROCKHAMPTON'S third installment, SATURATION III.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/399494825&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 ### BOOGIE

@@ -21,7 +21,7 @@ Jeremy and I, we'll present both of our sides for this track by track review. Si
 KAT: This song kicks through the album like the Kool-Aid man busting through the
 wall. It makes an intense statement, it's like "YO DUDE THIS IS SATURATION III, ARE YOU READY?" Now this song does lean more toward a poppy dance song, but does not reflect the tone of the entire album.
 
-JEREMY: Although this is the first track on the album, it feels like a victory lap for the entire SATURATION trilogy.
+JEREMY: I wasn't feeling this one at first, but it quickly grew on me. It starts with a bang and while it's only the first track on the album, it feels like a victory lap for the entire SATURATION trilogy.
 
 ### ZIPPER
 
@@ -34,7 +34,7 @@ JEREMY: There's so much going on here. From the cheeky ragtime piano loop, to th
 
 KAT: The opening monologue with the different voices overlapped is a really interesting start to this song. I also really like the drifting saxophone throughout this song, kinda makes it feel classy.
 
-JEREMY: This is one of the more personal tracks from Brockhampton. On it, the band members take turns sharing their hardships and woes over a melancholy beat. I found Joba's verse to be the most notable of the bunch. It's deeply genuine and relatable. Overall, this is a solid track. I only wish for two things. That the saxophone played a larger role; and that Kevin ends up getting Harry Styles' phone number.
+JEREMY: This is one of the more personal tracks from Brockhampton. On it, the band members take turns sharing their hardships and woes over a melancholy beat. I found Joba's verse to be the most notable of the bunch. It's deeply genuine and relatable. Overall, this is a solid track. I only wish for two things. That the saxophone played a larger role on this track; and that Kevin ends up getting Harry's phone number.
 
 ### LIQUID
 
@@ -45,23 +45,23 @@ JEREMY: On this track the MCs interlace their verses in a manner reminiscent of 
 ### CINEMA 1 / CINEMA 2 / CINEMA 3
 
 KAT: As far as all the cinema tracks, idk Spanish that well bro. But I can say, that I
-do appreciate this storytelling aspect that BH has sandwiched in every SATURATION album.
+do appreciate this storytelling aspect that BH has sandwiched in every SATURATION album. I think I'mma let Jeremy do the analysis on this one.
 
-JEREMY:
+JEREMY: These interludes are mostly spoken word, but there is some beautiful orchestral music in the background. Unfortunately, my high school Spanish did not prepare me well enough to understand most of what Robert had to say, but I did look at the translations put together by the Rap Genius community. In the first CINEMA, Robert reflects on the fun he's had living with the band and how he misses his family. CINEMA 2 is more about his reclusive tendencies. The music in this one reminds me of the intro to Demon Days by the Gorillaz in many ways. Finally, there's CINEMA 3, a prayer to God asking for hope and guidance. I found it really touching, even though I'm not a religious person. I'm not sure if these do much for me by themselves, but they certainly add a lot of character to the album. There also seems to be a progression to the interludes throughout the trilogy. In SATURATION they were labeled skits, then scenes in SATURATION II, and now cinemas. Perhaps an indication of the band's intentions.
 
 ### STUPID
 
 KAT: You're gonna have the chorus stuck in your head, plain and simple. This song also
 reminds me of FAKE from SATURATION.
 
-JEREMY: Brockhampton continues to impress with their level of production. This bangs so hard I get stank face everytime I hear it. Definitely the catchiest hook on the album.
+JEREMY: Brockhampton continue to impress with their level of production. The instrumental is simply intoxicating. Merlyn's entrance is massive and grimy in all the right ways. I still get a stupid grin on my face everytime the beat drops. This definitely has the catchiest hook on the album. It's an impossible task not to sing along with it.
 
 ### BLEACH
 
 KAT: This song is disorienting. But a good disorienting. BH tries to counterbalance this with smooth, clean vocals in the chorus. Ultimately, it's a weird attempt at experimental R&amp;B?
 This song is literally just OK to me. Not my most favorite song of this album, but it's worth a listen.
 
-JEREMY: This is perhaps the most beautiful track on the album, maybe even the entire SATURATION series. Ryan Beatty makes a guest appearance and delivers a very emotional chorus while the other lyrics are mostly somber and focus on remorse and missed opportunities. That is until yet another beat switch up takes place towards the end and the song ends on a more optimistic note.
+JEREMY: TThis is perhaps the most beautiful track on the album, maybe even the entire SATURATION series. Ryan Beatty makes a guest appearance and delivers a very emotional chorus while the other lyrics are mostly somber and focus on remorse and missed opportunities. Reversed guitar strums play out in the background until a beat switch up takes place towards the end and the song closes on a more optimistic note. I can't say enough good things about this one.
 
 ### ALASKA
 
@@ -69,7 +69,7 @@ KAT: This song is all about changes. The changes that these artists are experien
 time Matt Champion comes on, you can really feel this song take a dip in the mood, to
 a sadder region of feels.
 
-JEREMY: This track starts off with a simple beat as Ameer Vann and Kevin Abstract rap and sing about their newfound success. Gradually, strings are introduced that continue on at at a marching tempo. Eventually a crescendo of G-funk synths transition into a bridge with haunting vocals.
+JEREMY: This track starts off with a simple beat as Ameer Vann and Kevin Abstract rap and sing about their newfound success. Gradually, strings are introduced that continue on at at a marching tempo. Eventually a crescendo of G-funk synths transition into a bridge with haunting vocals. I really like how this track evolves.
 
 ### HOTTIE
 
@@ -97,7 +97,7 @@ JEREMY: This two part song starts out aggressive and kinetic. I love Merlyn's in
 
 KAT: The bass kinda reminds me of STUPID just a little bit and mainstream hip-hop. As far as BH's diversity so far, I don't think track really contributes to that. Chorus is catchy, so gonna give them that. Probably gonna say skip, you're not missing much.
 
-JEREMY: I'm on the fence with this one. Compared to the other tracks this one feels like it's playing it safe. While I could see it being a highlight on your average rap album, I've come to expect more from this project. That said, it has yet another hook from Kevin that's guaranteed to get stuck in your head, head, head, head, head, head, head.
+JEREMY: I'm on the fence with this one. Compared to the other tracks this one feels like it's playing it safe. While I could see it being a highlight on other albums album, I've come to expect more from this project. That said, it has yet another stellar hook from Kevin. It's guaranteed to get stuck in your head, head, head, head, head, head, head.
 
 ### STAINS
 
@@ -116,13 +116,13 @@ for the second part of the song...reminds me more of Pink Floyd? And YES, TEAM d
 into HEAT.
 <iframe src="https://giphy.com/embed/75ZaxapnyMp2w" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/75ZaxapnyMp2w"></a></p>
 
-JEREMY:
+JEREMY: This is another two-parter. The first part is a bittersweet ballad from Bearface where he's the other man in a relationship. It features only his angelic voice and some electric guitar. I'm getting serious Frank Ocean vibes here. After some silence, part two kicks off with drums, funky guitar riffs, and unique rap verses from the usual suspects. I like the way Ameer and Kevin go back and forth. Both Dom and Matt come in and manage to say a lot in just a few bars each. I also thought it was clever the way the naming convention reverts back to the one used on the first SATURATION. The gif says it all.
 
 ## Final Thots
 
 Since we didn't individually rate each track, we're gonna give our top picks and final comments on the entire album.
 
-KAT: In terms of diversity, production value and tracks that I feel contribute to the album as a whole, I'm going to pick *ZIPPER*, *SISTER/NATION*, and *STUPID*. Personal favs are BOOGIE, ZIPPER, and HOTTIE (cause I'm an indie-pop-rock head).
+KAT: In terms of diversity, production value and tracks that I feel contribute to the album as a whole, I'm going to pick **ZIPPER**, **SISTER/NATION**, and **STUPID**. Personal favs are BOOGIE, ZIPPER, and HOTTIE (cause I'm an indie-pop-rock head).
 Overall, I freaking love this album as a whole. These albums have demonstrated their
 diversity as artists. I think that artists should try to stretch their limits as much
 as possible and try to diversify their tracks. Artists without a lot of diversity tend

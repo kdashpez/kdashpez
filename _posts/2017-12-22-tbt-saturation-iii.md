@@ -40,7 +40,7 @@ JEREMY: This is one of the more personal tracks from Brockhampton. On it, the ba
 
 KAT: This song probably makes the weakest impact of the songs heard so far. Yaaawn, next.
 
-JEREMY: On this track the MCs interlace their verses in a manner reminiscent of Run the Jewels, but with an entirely different tone. Vocals are laid out over an intricately layered instrumental that changes dramatically over the song's short duration.
+JEREMY: I have to disagree with Kat here. To start, the transition from JOHNNY into LIQUID is seamless. On it, the MCs interlace their verses in a way that's reminiscent of Run the Jewels, but with an entirely different tone. Vocals are laid out over an intricately layered instrumental that changes dramatically over time. It's amazing how much is accomplished in the short 88 second runtime of this track.
 
 ### CINEMA 1 / CINEMA 2 / CINEMA 3
 

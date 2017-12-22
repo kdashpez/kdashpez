@@ -61,7 +61,7 @@ JEREMY: Brockhampton continue to impress with their level of production. The ins
 KAT: This song is disorienting. But a good disorienting. BH tries to counterbalance this with smooth, clean vocals in the chorus. Ultimately, it's a weird attempt at experimental R&amp;B?
 This song is literally just OK to me. Not my most favorite song of this album, but it's worth a listen.
 
-JEREMY: TThis is perhaps the most beautiful track on the album, maybe even the entire SATURATION series. Ryan Beatty makes a guest appearance and delivers a very emotional chorus while the other lyrics are mostly somber and focus on remorse and missed opportunities. Reversed guitar strums play out in the background until a beat switch up takes place towards the end and the song closes on a more optimistic note. I can't say enough good things about this one.
+JEREMY: This is perhaps the most beautiful track on the album, maybe even the entire SATURATION series. Ryan Beatty makes a guest appearance and delivers a very emotional chorus while the other lyrics are mostly somber and focus on remorse and missed opportunities. Reversed guitar strums play out in the background until a beat switch up takes place towards the end and the song closes on a more optimistic note. I can't say enough good things about this one.
 
 ### ALASKA
 

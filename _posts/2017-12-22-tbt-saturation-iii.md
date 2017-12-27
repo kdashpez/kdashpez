@@ -101,7 +101,7 @@ JEREMY: This two part song starts out aggressive and kinetic. I love Merlyn's in
 
 KAT: The bass kinda reminds me of STUPID just a little bit and mainstream hip-hop. As far as BH's diversity so far, I don't think track really contributes to that. Chorus is catchy, so gonna give them that. Probably gonna say skip, you're not missing much.
 
-JEREMY: I'm on the fence with this one. Compared to the other tracks this one feels like it's playing it safe. While I could see it being a highlight on other albums album, I've come to expect more from this project. That said, it has yet another stellar hook from Kevin. It's guaranteed to get stuck in your head, head, head, head, head, head, head.
+JEREMY: I'm on the fence with this one. Compared to the other tracks this one feels like it's playing it safe. While I could see it being a highlight on other albums, I've come to expect more from this project. That said, it has yet another stellar hook from Kevin. It's guaranteed to get stuck in your head, head, head, head, head, head, head.
 
 ### STAINS
 

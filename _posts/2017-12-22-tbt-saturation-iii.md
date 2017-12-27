@@ -12,7 +12,7 @@ Release Date: 12.15.2017
 
 Genre Tags: hip-hop, rap, alternative rap, pop, all-american, goodassmusic
 
-Just for a little bit of context: this album is what we would thought was going to be BROCKHAMPTON's, the "all-American boy band", final album. This comes as a shock since this group pushed out two albums full of great production quality. This review will be a collaboration between
+Just for a little bit of context: this album is what we would thought was going to be BROCKHAMPTON's, the "Internet's first boy band", final album. This comes as a shock since this group pushed out two albums full of great production quality. This review will be a collaboration between
 Jeremy and I, we'll present both of our sides for this track by track review. Sit back, relax, plug in your headphones and listen to BROCKHAMPTON'S third installment, SATURATION III.
 <iframe src="https://open.spotify.com/embed/album/5c2AzoNyr46fCQM5d8mxE0" width="600" height="380" frameborder="0" allowtransparency="true" align="middle"></iframe>
 

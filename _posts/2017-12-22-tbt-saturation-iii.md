@@ -14,12 +14,12 @@ Genre Tags: hip-hop, rap, alternative rap, pop, all-american, goodassmusic
 
 Just for a little bit of context: this album is what we would thought was going to be BROCKHAMPTON's, the "all-American boy band", final album. This comes as a shock since this group pushed out two albums full of great production quality. This review will be a collaboration between
 Jeremy and I, we'll present both of our sides for this track by track review. Sit back, relax, plug in your headphones and listen to BROCKHAMPTON'S third installment, SATURATION III.
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/399494825&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/5c2AzoNyr46fCQM5d8mxE0" width="600" height="380" frameborder="0" allowtransparency="true" align="middle"></iframe>
 
 ### BOOGIE
 
 KAT: This song kicks through the album like the Kool-Aid man busting through the
-wall. It makes an intense statement, it's like "YO DUDE THIS IS SATURATION III, ARE YOU READY?" Now this song does lean more toward a poppy dance song, but does not reflect the tone of the entire album.
+wall. It makes an intense statement, it's like "YO DUDE THIS IS SATURATION III, ARE YOU READY?" Now this song does lean more toward a poppy dance song, but does not reflect the tone of the entire album, it hypes up the listener for the tracks to come.
 
 JEREMY: I wasn't feeling this one at first, but it quickly grew on me. It starts with a bang and while it's only the first track on the album, it feels like a victory lap for the entire SATURATION trilogy.
 
@@ -42,6 +42,8 @@ KAT: This song probably makes the weakest impact of the songs heard so far. Yaaa
 
 JEREMY: I have to disagree with Kat here. To start, the transition from JOHNNY into LIQUID is seamless. On it, the MCs interlace their verses in a way that's reminiscent of Run the Jewels, but with an entirely different tone. Vocals are laid out over an intricately layered instrumental that changes dramatically over time. It's amazing how much is accomplished in the short 88 second runtime of this track.
 
+KAT: Alright, Jeremy...with further listening, I can agree that the transition from JOHNNY to LIQUID is definitely seamless. The arpeggiated piano chord in the background makes this song feel really haunting and it helps make the connection between each member's verses. The band plays on this theme of being nostalgic and transitioning from their ordinary lives to their newfound fame.
+
 ### CINEMA 1 / CINEMA 2 / CINEMA 3
 
 KAT: As far as all the cinema tracks, idk Spanish that well bro. But I can say, that I
@@ -59,9 +61,11 @@ JEREMY: Brockhampton continue to impress with their level of production. The ins
 ### BLEACH
 
 KAT: This song is disorienting. But a good disorienting. BH tries to counterbalance this with smooth, clean vocals in the chorus. Ultimately, it's a weird attempt at experimental R&amp;B?
-This song is literally just OK to me. Not my most favorite song of this album, but it's worth a listen.
+This song is not an easy listen. At the beginning, it almost feels like it's a broken record. Not my most favorite song of this album, but it's worth a listen.
 
 JEREMY: This is perhaps the most beautiful track on the album, maybe even the entire SATURATION series. Ryan Beatty makes a guest appearance and delivers a very emotional chorus while the other lyrics are mostly somber and focus on remorse and missed opportunities. Reversed guitar strums play out in the background until a beat switch up takes place towards the end and the song closes on a more optimistic note. I can't say enough good things about this one.
+
+KAT: I'm just shook from the reversed guitar, it makes me confused (laughing crying emoji).
 
 ### ALASKA
 
@@ -127,3 +131,5 @@ Overall, I freaking love this album as a whole. These albums have demonstrated t
 diversity as artists. I think that artists should try to stretch their limits as much
 as possible and try to diversify their tracks. Artists without a lot of diversity tend
 to corner themselves into a genre of complacency. The challenge of diversity is the fear of the loss of identity of the band as a whole. But BROCKHAMPTON has certainly proven their style which is what makes listening to their music really enjoyable and keeps things fresh. They make a statement with each track and they tell a story with the entire album. It's cohesive, despite having varying genres and definitely worth a listen.
+
+JEREMY: Brockhampton represents a wide array of perspectives, and that's well represented in this project. Each song is unique and diverse, yet arranged in a way that feels balanced. Of course, some common Brockhampton motifs crop up: sexuality, drugs, angst; but these topics are explored in new and different ways. All of this is accomplished with consistently excellent production and vocal performances. Standouts for me include most of the album, but if I had to pick just a few I would choose **BLEACH**, **ZIPPER**, and **STUPID**. SATURATION III is more than a satisfying conclusion to the trilogy. Between its eclectic tracklist, boundless energy, and unique sound, I think it should be regarded as a masterpiece. The collective set out with the ambitious goal of redefining pop music. While that might seem like a ridiculous claim to many, they've put in the effort to do just that. Three albums have been released in half a year and there's already a fourth on the way. Personally, I couldn’t be more excited to see what comes next from "the Internet's first boy band."

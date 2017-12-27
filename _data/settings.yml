@@ -13,7 +13,7 @@ menu:
 - {name: 'blog.', folder: 'pages', file: 'blog.html'}
 - {name: 'bookshelf.', folder: 'pages', file: 'bookshelf.html'}
 - {name: 'track by track.', folder: 'pages', file: 'tbt.html'}
-- {name: 'meme stash.', folder: 'pages', file: 'memes.html'}
+#- {name: 'meme stash.', folder: 'pages', file: 'memes.html'}
 - {name: 'film.', folder: 'pages', file: 'film.html'}
 - {name: 'about.', folder: 'pages', file: 'about.html'}
 
@@ -23,5 +23,3 @@ social:
 - {icon: 'lastfm', link: 'http://last.fm/user/stolenpens'}
 - {icon: 'spotify', link: 'http://open.spotify.com/user/kdashpez'}
 - {icon: 'envelope', link: 'mailto:kdashpez@gmail.com'}
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer

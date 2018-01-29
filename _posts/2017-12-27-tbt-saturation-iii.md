@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "saturation III."
+title: "saturation III - BROCKHAMPTON."
 author: "Katherine Perez and Jeremy Jackson"
 categories: tbt
 tags: [tbt, brockhampton, experimental, boyband, hip-hop]

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "roy pablo EP."
+title: "roy pablo EP - boy pablo."
 author: "Katherine Perez"
-categories: tbt 
+categories: tbt
 tags: [tbt, boy-pablo, indie-rock]
 image:
  feature: roypablocover.jpg
@@ -32,12 +32,12 @@ On a more serious note, this song will probably resonate with a lot of millennia
 Score: 8/10
 
 ### Dance, Baby!
-More unrequited love. Chorus is catchy, really does make me want to dance. Yep, more Internet Age references...reel in those millennials, man. Loneliness. Oh god, air horn...Y? 
+More unrequited love. Chorus is catchy, really does make me want to dance. Yep, more Internet Age references...reel in those millennials, man. Loneliness. Oh god, air horn...Y?
 
 Score: 8 (for catchy chorus) - 0.5 (for airhorn) = 7.5/10
 
 ### imreallytiredthisdaysucks
-I feel like this is a lazy version of Yeah(Fantisizing). I'm sure this is track is not going to be as popular as the previous ones, because it was literally about the day sucking. Idk, maybe Pablo was having a bad day? Maybe that's why this song is in the middle? 
+I feel like this is a lazy version of Yeah(Fantisizing). I'm sure this is track is not going to be as popular as the previous ones, because it was literally about the day sucking. Idk, maybe Pablo was having a bad day? Maybe that's why this song is in the middle?
 
 Score: 5/10
 

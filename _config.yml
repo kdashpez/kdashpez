@@ -1,13 +1,13 @@
-# Site Settings
+# Site Build Settings
 
+# jekyll-paginate configuration
 paginate:            5
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins_dir:         [jekyll-paginate, jekyll-sitemap, jekyll-feed]
-gems:                [jekyll-paginate]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
   sass_dir: assets/css

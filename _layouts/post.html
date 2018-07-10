@@ -32,7 +32,7 @@ layout: default
   {% endif %}
 
   <article>
-    {{ content }}
+     {{ content | replace: '<li>[ ]', '<li class = "box">' | replace: '<li>[x]', '<li class = "box_done">'  }}
   </article>
 
   {% if site.data.settings.disqus.comments %}
